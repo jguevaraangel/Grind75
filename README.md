@@ -1,2 +1,2 @@
 # Grind75
-This repository contains my personal solutions to the Grind75 LeetCode problems, solutions are implemented primarily in C++, and Python.
+This repository contains my solutions to the Grind75 LeetCode problems. Solutions are implemented primarily in C++ and Python.
